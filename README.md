@@ -5,7 +5,7 @@ Most codes are for python3, most notebooks works on
 
 ### CycleGAN
 * CycleGAN-tensorflow(https://github.com/vanhuyz/CycleGAN-TensorFlow)
-* CycleGAN-keras()
+* CycleGAN-keras(https://github.com/tjwei/GANotebooks)
 * CycleGAN-paper(https://arxiv.org/pdf/1703.10593.pdf)
 * CycleGAN-torch(https://github.com/junyanz/CycleGAN)
 * CycleGAN-pytorch(https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
